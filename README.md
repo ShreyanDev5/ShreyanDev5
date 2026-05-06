@@ -1,16 +1,19 @@
-## Hi there 👋
+# Shreyan Sardar
 
-<!--
-**ShreyanDev5/ShreyanDev5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Backend & AI Developer · Java, Spring Boot · Open to Remote Roles`** 
 
-Here are some ideas to get you started:
+CS grad focused on backend development. I care about strong fundamentals and writing code that solves real problems, leveraging AI tools to debug, build, and optimize my workflow. Open to remote backend/SWE roles at product-based startups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+[![Skills](https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,docker,git,postman,idea)](https://skillicons.dev)
+
+**Familiar with:**
+
+`AWS · GitHub Actions · Kafka · RabbitMQ · Redis · JUnit`
+
+---
+
+*Pinned repositories below*

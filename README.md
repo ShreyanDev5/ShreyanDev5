@@ -2,7 +2,7 @@
 
 **`Backend Developer · Java, Spring Boot · Open to Remote Roles`** 
 
-CS grad focused on backend development. I care about strong fundamentals and writing code that solves real problems, leveraging AI tools to debug, build, and optimize my workflow. Open to remote backend/SWE roles at product-based startups.
+Computer Science graduate focused on backend systems and architecture. I prioritize engineering fundamentals and practical problem-solving, using AI-assisted workflows to build and debug efficiently. Actively targeting a remote software engineering role at a product-based startup.
 
 ---
 
@@ -15,7 +15,7 @@ CS grad focused on backend development. I care about strong fundamentals and wri
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 
 **Familiar with:**
-`AWS · GitHub Actions · Redis · Kafka · OpenAPI`
+`System Design Fundamentals · Redis · Kafka · GitHub Actions · OpenAPI · AWS`
 
 ---
 

@@ -15,7 +15,7 @@ Computer Science graduate focused on backend systems and architecture. I priorit
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 
 **Familiar with:**
-`System Design Fundamentals · Redis · Kafka · GitHub Actions · OpenAPI · AWS`
+`System Design Fundamentals · Redis · Kafka · Kubernetes · GitHub Actions · OpenAPI · AWS`
 
 ---
 

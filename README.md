@@ -1,8 +1,8 @@
 # Shreyan Sardar
 
-**`Backend Developer · Java, Spring Boot · Open to Remote Roles`** 
+**`Backend Developer · Java & Spring Boot · Open to Remote Roles`** 
 
-Computer Science graduate focused on backend systems and architecture. I prioritize engineering fundamentals and practical problem-solving, using AI-assisted workflows to build and debug efficiently. Actively targeting a remote software engineering role at a product-based startup.
+CS graduate focused on backend development with Java and Spring Boot. I care about backend fundamentals, clean architecture, and building practical systems. Also use AI tools for frontend development. Open to remote roles at product-based startups.
 
 ---
 
@@ -14,8 +14,11 @@ Computer Science graduate focused on backend systems and architecture. I priorit
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 
+**Tools:**
+`Git · Postman · IntelliJ IDEA · Warp · GitHub Copilot · Antigravity`
+
 **Familiar with:**
-`System Design Fundamentals · Redis · Kafka · Kubernetes · GitHub Actions · OpenAPI · AWS`
+`Scalable Backend Fundamentals · Redis · Kafka · Kubernetes · GitHub Actions · OpenAPI · AWS`
 
 ---
 

@@ -1,7 +1,7 @@
 # Shreyan Sardar
 
 Backend Developer (Java/Spring Boot)  
-Focused on building efficient, practical systems.  
+Focused on building clean, efficient systems.  
 I build the backend while leveraging AI for frontend tasks.  
 Open to remote SDE roles at product-based startups.
 

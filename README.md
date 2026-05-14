@@ -2,7 +2,7 @@
 
 Backend Developer (Java/Spring Boot)  
 Focused on building clean, maintainable systems.  
-Uses AI-assisted frontend workflows.  
+Uses AI tools for frontend work.  
 Open to remote SDE roles at product-based startups.
 
 ---

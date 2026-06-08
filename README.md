@@ -2,7 +2,7 @@
 
 Backend Developer (Java/Spring Boot)  
 Focused on building clean, maintainable systems.  
-Uses AI tools for frontend work.  
+Leverages AI tools to build end-to-end applications.  
 Open to remote SDE roles at product-based startups.
 
 ---
@@ -16,11 +16,11 @@ Open to remote SDE roles at product-based startups.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 
-**Tools:**  
-`Git · Postman · IntelliJ IDEA · Warp · GitHub Copilot · Antigravity`
+**Systems & DevOps Concepts:**  
+`System Design · Redis · Kafka · RabbitMQ · Kubernetes · GitHub Actions · OpenAPI · AWS`
 
-**Familiar with:**  
-`System Design · Redis · Kafka · Kubernetes · GitHub Actions · OpenAPI · AWS`
+**Tools & Productivity:**  
+`Git · Postman · IntelliJ IDEA · Warp · GitHub Copilot · Antigravity · Codex`
 
 ---
 

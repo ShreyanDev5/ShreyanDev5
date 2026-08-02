@@ -1,9 +1,9 @@
 # Shreyan Sardar
 
 Backend Developer (Java/Spring Boot & Python/FastAPI)  
-Focused on building clean, maintainable systems.  
-Uses AI tools to build end-to-end applications.  
-Open to remote SDE roles at product-based startups.
+Focused on building clean backend services & studying distributed systems.  
+Uses Antigravity to write frontends & ship full-stack applications end-to-end.  
+Open to remote backend/SDE roles at product-based startups.
 
 [Portfolio](https://shreyandev.vercel.app/)
 
@@ -11,17 +11,17 @@ Open to remote SDE roles at product-based startups.
 
 ### 🛠 Tech Stack
 
-#### **Core Stack**
-* Java, Spring Boot, Python, FastAPI, Docker
+#### **Languages & Frameworks**
+* Java, Spring Boot, Hibernate, Python, FastAPI, SQLAlchemy, Pydantic
 
 #### **Databases & Testing**
 * PostgreSQL, MySQL, H2, JUnit 5, Mockito
 
-#### **Systems & DevOps Concepts**
-* System Design, Redis, Kafka, RabbitMQ, Kubernetes, GitHub Actions, OpenAPI, AWS
+#### **Distributed Systems (Foundational)**
+* System Design, Redis, Kafka, RabbitMQ, Kubernetes, CI/CD, AWS
 
-#### **Tools & Productivity**
-* Git, Postman, Supabase, Firebase, Vercel, Netlify, GitHub Copilot, Antigravity, Codex
+#### **Tools**
+* Git, Postman, Docker, Swagger, Supabase, Firebase, Vercel, Antigravity, Cursor, Copilot
 
 ---
 

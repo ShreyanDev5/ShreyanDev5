@@ -14,14 +14,14 @@ Open to remote backend/SDE roles at product-based startups.
 #### **Languages & Frameworks**
 * Java, Spring Boot, Hibernate, Python, FastAPI, SQLAlchemy, Pydantic
 
-#### **Databases & Testing**
-* PostgreSQL, MySQL, H2, JUnit 5, Mockito
+#### **Databases**
+* PostgreSQL, MySQL
 
 #### **Distributed Systems (Foundational)**
 * System Design, Redis, Kafka, RabbitMQ, Kubernetes, CI/CD, AWS
 
 #### **Tools**
-* Git, Postman, Docker, Swagger, Supabase, Firebase, Vercel, Antigravity, Cursor, Copilot
+* Postman, Docker, Swagger, Supabase, Firebase, Vercel, Antigravity, Cursor
 
 ---
 

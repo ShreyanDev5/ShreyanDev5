@@ -11,17 +11,17 @@ Open to remote backend/SDE roles at product-based startups.
 
 ### 🛠 Tech Stack
 
-#### **Languages & Frameworks**
+#### **Backend**
 * Java, Spring Boot, Hibernate, Python, FastAPI, SQLAlchemy, Pydantic
 
-#### **Databases**
-* PostgreSQL, MySQL
-
-#### **Distributed Systems (Foundational)**
-* System Design, Redis, Kafka, RabbitMQ, Kubernetes, CI/CD, AWS
+#### **Data & Infra**
+* PostgreSQL, MySQL, Docker
 
 #### **Tools**
-* Postman, Docker, Swagger, Supabase, Firebase, Vercel, Antigravity, Cursor
+* Postman, Swagger, Supabase, Firebase, Vercel, Antigravity, Cursor
+
+#### **Foundations**
+* System Design, Redis, Kafka, RabbitMQ, AWS, CI/CD, Kubernetes
 
 ---
 

@@ -1,9 +1,9 @@
 # Shreyan Sardar
 
-Backend Developer (Java/Spring Boot & Python/FastAPI)  
-Focused on building clean backend services & studying distributed systems.  
-Uses Antigravity to write frontends & ship full-stack applications end-to-end.  
-Open to remote backend/SDE roles at product-based startups.
+Product Engineer (Java/Spring Boot & Python/FastAPI)  
+Building backend systems & shipping full-stack products end-to-end.  
+Uses Antigravity for frontend development.  
+Open to remote Product Engineer & Backend roles at product startups.
 
 [Portfolio](https://shreyandev.vercel.app/)
 
@@ -22,7 +22,3 @@ Open to remote backend/SDE roles at product-based startups.
 
 #### **Foundations**
 * System Design, Redis, Kafka, RabbitMQ, AWS, CI/CD, Kubernetes
-
----
-
-*Pinned repositories below*

@@ -2,10 +2,10 @@
 
 Product Engineer (Java/Spring Boot & Python/FastAPI)  
 Building backend systems & shipping full-stack products end-to-end.  
-Uses Antigravity for frontend development.  
+Uses AI agents (Antigravity, Cursor) to ship UIs & full apps.  
 Open to remote Product Engineer & Backend roles at product startups.
 
-[Portfolio](https://shreyandev.vercel.app/)
+[Portfolio](https://shreyandev.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/shreyansardar/) | [X / Twitter](https://x.com/Shreyan_23)
 
 ---
 

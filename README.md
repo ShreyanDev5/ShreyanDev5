@@ -8,4 +8,4 @@ CS graduate & Product Engineer building backend systems in **Python (FastAPI)** 
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/shreyansardar/) · [X](https://x.com/Shreyan_23) · [LeetCode](https://leetcode.com/u/Shreyan_555/)
+[LinkedIn](https://www.linkedin.com/in/shreyansardar/) · [X (Twitter)](https://x.com/Shreyan_23) · [LeetCode](https://leetcode.com/u/Shreyan_555/)

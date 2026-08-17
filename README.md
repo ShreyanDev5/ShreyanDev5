@@ -1,24 +1,11 @@
 # Shreyan Sardar
 
-Product Engineer (Java/Spring Boot & Python/FastAPI)  
-Building backend systems & shipping full-stack products end-to-end.  
-Uses AI agents (Antigravity, Cursor) to ship UIs & full apps.  
-Open to remote Product Engineer & Backend roles at product startups.
+CS graduate & Product Engineer building backend systems in **Python (FastAPI)** and **Java (Spring Boot)**, and using AI agents (Antigravity, Cursor) to ship full-stack products end-to-end.
 
-[Portfolio](https://shreyandev.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/shreyansardar/) | [X / Twitter](https://x.com/Shreyan_23)
+- 🛠 **Built & Shipped:** 8 apps (6 deployed)
+- 🏋️ **Execution:** Built a custom PPL workout tracker and lost 30 kg (66 lbs) in 1 year
+- 🌐 **Portfolio:** [shreyandev.vercel.app](https://shreyandev.vercel.app)
 
 ---
 
-### 🛠 Tech Stack
-
-#### **Backend**
-* Java, Spring Boot, Hibernate, Python, FastAPI, SQLAlchemy, Pydantic
-
-#### **Data & Infra**
-* PostgreSQL, MySQL, Docker
-
-#### **Tools**
-* Postman, Swagger, Supabase, Firebase, Vercel, Antigravity, Cursor
-
-#### **Foundations**
-* System Design, Redis, Kafka, RabbitMQ, AWS, CI/CD, Kubernetes
+[LinkedIn](https://www.linkedin.com/in/shreyansardar/) · [X](https://x.com/Shreyan_23) · [LeetCode](https://leetcode.com/u/Shreyan_555/)

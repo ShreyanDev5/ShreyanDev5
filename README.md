@@ -8,4 +8,4 @@ CS graduate building backend systems in **Python (FastAPI)** and **Java (Spring 
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/shreyansardar/) · [X (Twitter)](https://x.com/Shreyan_23) · [LeetCode](https://leetcode.com/u/Shreyan_555/)
+[LinkedIn](https://www.linkedin.com/in/shreyansardar/) · [X (Twitter)](https://x.com/shreyansr01) · [LeetCode](https://leetcode.com/u/Shreyan_555/)
